@@ -1,4 +1,4 @@
-## Hi 👋🏻 I'm Julie Webb
+## Hi 👋🏻 I'm Julie
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Cartoon Drawing of Julie](https://i.imgur.com/0YpuB3y.png)
 
