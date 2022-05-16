@@ -8,7 +8,7 @@
 
 
 - 🔭 I’m currently enrolled in General Assembly and just finished my personal project, Easel
-- 🌱 I’m currently learning APIs, NodeJS, and ExpressJS Framework 
+- 🌱 I’m currently learning about full stack development, NodeJS, and ExpressJS Framework 
 - 👯 I’m looking to collaborate on projects with creative interfaces or mapping!
 - 💯 Follow my #100DaysOfCode progress on [twitter](https://twitter.com/juliefwebb)
 - ⚡ In my free time I enjoy figure drawing, cartography, art museums, and foreign cinema. 
