@@ -7,11 +7,19 @@
 ![Linkedin: JulieFWebb](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/juliefwebb/)
 
 
-- 🔭 I’m currently enrolled in General Assembly and just finished my personal project, Easel
-- 🌱 I’m currently learning about full stack development, NodeJS, and ExpressJS Framework 
-- 👯 I’m looking to collaborate on projects with creative interfaces or mapping!
-- 💯 Follow my #100DaysOfCode progress on [twitter](https://twitter.com/juliefwebb)
-- ⚡ In my free time I enjoy figure drawing, cartography, art museums, and foreign cinema. 
+🔭 I’m currently a Senior GIS Full-Stack Engineer working at the intersection of geospatial data and modern web development.
+
+🌐 My toolkit includes React, Python, Node.js, and ArcGIS — and I love building map-based interfaces that make complex data more accessible.
+
+🧩 I'm interested in collaborating on projects involving location-based services, spatial analysis, and civic tech tools.
+
+🛠️ Recent projects include modernizing citywide GIS applications, automating Salesforce integrations with Python, and developing data dashboards featured in the Boston Globe.
+
+🌱 Always learning — currently diving deeper into open GIS libaries, testing strategies, and scalable backend systems.
+
+💬 Let’s talk cartography, urban data, or spatial UX — I believe great maps start with great conversations.
+
+🎨 Outside of code, I enjoy figure drawing, art museums, and foregin filns.
 
 
 ### Languages and Tools
